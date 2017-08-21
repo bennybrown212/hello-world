@@ -2,4 +2,4 @@
 
 ## Woo-hoo!  Learning how to commit on github!
 
-This is very, very exciting!
+This is very, very exciting!  What happens next?
